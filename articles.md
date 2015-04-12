@@ -10,3 +10,6 @@
 #####AngularJS
 +   [A Practical Guide to AngularJS Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/) - _Jan 14, 2014_
 +   [A Practical Guide to AngularJS Directives: Part Two](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/) - _Jan 17, 2014_
+
+#####Hibernate
++   [How to batch DELETE statements with Hibernate](http://vladmihalcea.com/2015/03/26/how-to-batch-delete-statements-with-hibernate/) - _Mar 26, 2015_
