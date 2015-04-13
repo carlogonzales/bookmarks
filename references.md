@@ -30,3 +30,8 @@ The following requirements should help if the link is elligible to be in this do
 
 #####XSL FO
 +   [XSL Formatting Objects Tutorial](http://www.renderx.com/tutorial.html)
++   [XML Bible 1.1 - XSL FO Chapter 16](http://www.cafeconleche.org/books/bible3/chapters/ch16.html)
++   [XSL, XSL-FO FAQ](http://www.dpawson.co.uk/xsl/sect3/xsl-fo.html)
+
+#####XSL
++   [XSL, XSL-FO FAQ](http://www.dpawson.co.uk/xsl/sect3/xsl-fo.html)
