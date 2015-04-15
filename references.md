@@ -35,3 +35,6 @@ The following requirements should help if the link is elligible to be in this do
 
 #####XSL
 +   [XSL, XSL-FO FAQ](http://www.dpawson.co.uk/xsl/sect3/xsl-fo.html)
+
+#####JAX-B
++   [Using JAXB's @XmlAccessorType to Configure Field or Property Access](http://blog.bdoughan.com/2011/06/using-jaxbs-xmlaccessortype-to.html)
