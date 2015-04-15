@@ -37,4 +37,9 @@ The following requirements should help if the link is elligible to be in this do
 +   [XSL, XSL-FO FAQ](http://www.dpawson.co.uk/xsl/sect3/xsl-fo.html)
 
 #####JAX-B
++   [JAX-B Documentations](https://jaxb.java.net/)
 +   [Using JAXB's @XmlAccessorType to Configure Field or Property Access](http://blog.bdoughan.com/2011/06/using-jaxbs-xmlaccessortype-to.html)
++   [JAX-B Tutorials and Articles - Blaise Doughan](http://blog.bdoughan.com/search/label/JAXB)
+
+#####JAX-RS
++   [JAX-RS Tutorials and Articles - Blaise Doughan](http://blog.bdoughan.com/search/label/JAX-RS)
