@@ -32,9 +32,20 @@ The following requirements should help if the link is elligible to be in this do
 +   [XSL Formatting Objects Tutorial](http://www.renderx.com/tutorial.html)
 +   [XML Bible 1.1 - XSL FO Chapter 16](http://www.cafeconleche.org/books/bible3/chapters/ch16.html)
 +   [XSL, XSL-FO FAQ](http://www.dpawson.co.uk/xsl/sect3/xsl-fo.html)
++   [XSL-FO Tutorial PDF](https://www.ecrion.com/help/support/pdf/xsl-fotutorial.pdf)
++   [XSL-FO Schema Reference](http://www.datypic.com/sc/fo11/ss.html)
++   [XSL-FO CheatSheet PDF](http://www.digilife.be/quickreferences/QRC/Extensible%20Stylesheet%20Language%20%28XSL%29%201.0.pdf)
++   [XSL-FO Concept](http://www.mulberrytech.com/papers/Intro2XSL-FO/Intro2XSL-FO.pdf)
++   [XSL-FO Tutorial](https://www.alt-soft.com/tutorial/xslfo_tutorial/intro-toc.html)
++   [What is XSL-FO](http://www.xml.com/pub/a/2002/03/20/xsl-fo.html)
 
-#####XSL
+#####XSLT
 +   [XSL, XSL-FO FAQ](http://www.dpawson.co.uk/xsl/sect3/xsl-fo.html)
++   [What Is XSLT](http://www.xml.com/pub/a/2000/08/holman/index.html)
++   [XSLT Elements Reference](http://www.w3schools.com/xsl/xsl_w3celementref.asp)
+
+#####XPATH
++   [XPATH Function Reference](http://www.w3schools.com/xpath/xpath_functions.asp)
 
 #####JAX-B
 +   [JAX-B Documentations](https://jaxb.java.net/)
@@ -43,3 +54,12 @@ The following requirements should help if the link is elligible to be in this do
 
 #####JAX-RS
 +   [JAX-RS Tutorials and Articles - Blaise Doughan](http://blog.bdoughan.com/search/label/JAX-RS)
+
+#####TERMINAL
++   [CommandlineFU.com](http://www.commandlinefu.com/commands/browse
+
+#####OAUTH 2
++   [Enable OAuth Refresh Tokens in AngularJS App using ASP .NET Web API 2, and Owin](http://bitoftech.net/2014/07/16/enable-oauth-refresh-tokens-angularjs-app-using-asp-net-web-api-2-owin/)
+
+#####SERVER ADMINISTRATION
++   [Server Admin for Programmers](https://serversforhackers.com/)
