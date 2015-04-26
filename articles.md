@@ -13,3 +13,6 @@
 
 #####Hibernate
 +   [How to batch DELETE statements with Hibernate](http://vladmihalcea.com/2015/03/26/how-to-batch-delete-statements-with-hibernate/) - _Mar 26, 2015_
+
+#####OAUTH 2
++   [Enable OAuth Refresh Tokens in AngularJS App using ASP .NET Web API 2, and Owin](http://bitoftech.net/2014/07/16/enable-oauth-refresh-tokens-angularjs-app-using-asp-net-web-api-2-owin/) - _Jul 16, 2014_
