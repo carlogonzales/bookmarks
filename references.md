@@ -56,7 +56,7 @@ The following requirements should help if the link is elligible to be in this do
 +   [JAX-RS Tutorials and Articles - Blaise Doughan](http://blog.bdoughan.com/search/label/JAX-RS)
 
 #####TERMINAL
-+   [CommandlineFU.com](http://www.commandlinefu.com/commands/browse
++   [CommandlineFU.com](http://www.commandlinefu.com/commands/browse)
 
 #####OAUTH 2
 +   [Enable OAuth Refresh Tokens in AngularJS App using ASP .NET Web API 2, and Owin](http://bitoftech.net/2014/07/16/enable-oauth-refresh-tokens-angularjs-app-using-asp-net-web-api-2-owin/)
