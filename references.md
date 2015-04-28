@@ -27,6 +27,7 @@ The following requirements should help if the link is elligible to be in this do
 
 #####Architecture
 +   [Vlad Mihalcea's Architecture Articles](http://vladmihalcea.com/category/architecture/)
++   [SOA Patterns](http://soapatterns.org)
 
 #####XSL FO
 +   [XSL Formatting Objects Tutorial](http://www.renderx.com/tutorial.html)
