@@ -7,3 +7,9 @@
 #####Hibernate
 
 +   [Vlad Mihalcea's Blog » Hibernate](http://vladmihalcea.com/category/java-2/hibernate/feed/)
+
+###May
+
+#####Enterprise Architecture
+
++   [Christian Posta's Blog](http://blog.christianposta.com/)
