@@ -64,3 +64,6 @@ The following requirements should help if the link is elligible to be in this do
 
 #####SERVER ADMINISTRATION
 +   [Server Admin for Programmers](https://serversforhackers.com/)
+
+#####SPRING INTEGRATION
++   [Spring Integration – Enterprise Integration Veg-O-Matic](http://www.intertech.com/Blog/spring-integration-enterprise-integration-veg-o-matic/)
