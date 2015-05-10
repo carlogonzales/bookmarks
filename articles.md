@@ -16,3 +16,8 @@
 
 #####OAUTH 2
 +   [Enable OAuth Refresh Tokens in AngularJS App using ASP .NET Web API 2, and Owin](http://bitoftech.net/2014/07/16/enable-oauth-refresh-tokens-angularjs-app-using-asp-net-web-api-2-owin/) - _Jul 16, 2014_
+
+###May
+
+#####Microservices
++   [Adopting Microservices at Netflix: Lessons for Architectural Design](http://nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
