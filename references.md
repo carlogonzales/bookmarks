@@ -67,3 +67,6 @@ The following requirements should help if the link is elligible to be in this do
 
 #####SPRING INTEGRATION
 +   [Spring Integration – Enterprise Integration Veg-O-Matic](http://www.intertech.com/Blog/spring-integration-enterprise-integration-veg-o-matic/)
+
+#####MICROSERVICE ARCHITECTURE
++   [Microservice Architecture](http://microservices.io/index.html)
