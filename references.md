@@ -90,3 +90,4 @@ The following requirements should help if the link is elligible to be in this do
 ##### SECURE CODING
 
 +   [OWASP Secure Coding Principles](https://www.owasp.org/index.php/Secure_Coding_Principles)
++   [Berkley Secure Coding Practice Guidelines](https://security.berkeley.edu/content/application-software-security-guidelines)
