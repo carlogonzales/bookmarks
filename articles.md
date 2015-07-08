@@ -34,3 +34,9 @@
 ##### Programming
 
 +   [Top 25 common programming bugs every tester should know](http://www.softwaretestinghelp.com/top-25-common-programming-bugs-every-tester-should-know/)
+
+### July
+
+#### Database Design
+
++   [Martin Fowler - PolyglotPersistence](http://martinfowler.com/bliki/PolyglotPersistence.html) - _Nov 16, 2011_
