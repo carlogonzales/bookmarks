@@ -41,3 +41,4 @@
 
 +   [Martin Fowler - PolyglotPersistence](http://martinfowler.com/bliki/PolyglotPersistence.html) - _Nov 16, 2011_
 +   [Percona Blog - Store UUID in an optimized way](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/) - _Dec 19, 2014_
++   [Percona Blog - To UUID or not to UUID ?](https://www.percona.com/blog/2007/03/13/to-uuid-or-not-to-uuid/)
