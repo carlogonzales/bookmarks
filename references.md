@@ -95,3 +95,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### DATABASE DESIGN
 
 +   [Martin Fowler - Polyglot Persistence](http://martinfowler.com/bliki/PolyglotPersistence.html)
+
+##### GIT
+
++   [Github - How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
