@@ -40,3 +40,4 @@
 #### Database Design
 
 +   [Martin Fowler - PolyglotPersistence](http://martinfowler.com/bliki/PolyglotPersistence.html) - _Nov 16, 2011_
++   [Percona Blog - Store UUID in an optimized way](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/) - _Dec 19, 2014_
