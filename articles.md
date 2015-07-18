@@ -48,3 +48,7 @@
 
 +   [Tav's Blog - OAuth 3.0: The Sane and Simple Way To Do It](http://tav.espians.com/oauth-3.0-the-sane-and-simple-way-to-do-it.html)
 +   [TutsPlus - A Better Login System](http://code.tutsplus.com/tutorials/a-better-login-system--net-3461)
+
+#### Wireframing
+
++   [TutsPlus - A Beginner’s Guide to Wireframing](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
