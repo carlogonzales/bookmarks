@@ -47,3 +47,4 @@
 #### Security
 
 +   [Tav's Blog - OAuth 3.0: The Sane and Simple Way To Do It](http://tav.espians.com/oauth-3.0-the-sane-and-simple-way-to-do-it.html)
++   [TutsPlus - A Better Login System](http://code.tutsplus.com/tutorials/a-better-login-system--net-3461)
