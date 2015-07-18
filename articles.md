@@ -43,3 +43,7 @@
 +   [Percona Blog - Store UUID in an optimized way](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/) - _Dec 19, 2014_
 +   [Percona Blog - To UUID or not to UUID ?](https://www.percona.com/blog/2007/03/13/to-uuid-or-not-to-uuid/)
 +   [DZone - Modern Database Design by Example](https://dzone.com/articles/designing-databases)
+
+#### Security
+
++   [Tav's Blog - OAuth 3.0: The Sane and Simple Way To Do It](http://tav.espians.com/oauth-3.0-the-sane-and-simple-way-to-do-it.html)
