@@ -5,15 +5,23 @@
 ### 2015
 
 ##### CSS Framework
+
 +   [Semantic UI](http://semantic-ui.com) - UI Library
 
 ##### Messaging Service
+
 +   [PubNub](https://www.pubnub.com/) - Provides Pub/Sub service with websocket support
 
 ##### IDE
+
 +   [Eclipse](https://eclipse.org/) - Multi-purpose IDE
 +   [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE for Java, Scala and Groovy
 
 ##### SECURITY TESTING TOOLS
+
 +   [Basic Fuzzing Framework](https://www.cert.org/vulnerability-analysis/tools/bff.cfm)
 +   [Exploit-me Firefox Plugins](https://addons.mozilla.org/en-us/firefox/user/security-compass/)
+
+##### QA TOOLS
+
++   [Usersnap](https://usersnap.com/) - 
