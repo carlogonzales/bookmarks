@@ -99,3 +99,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### GIT
 
 +   [Github - How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+
+##### EcmaScript 6
+
++   [Mozilla - ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/)
