@@ -21,6 +21,7 @@
 
 +   [Basic Fuzzing Framework](https://www.cert.org/vulnerability-analysis/tools/bff.cfm)
 +   [Exploit-me Firefox Plugins](https://addons.mozilla.org/en-us/firefox/user/security-compass/)
++   [Detectify](https://detectify.com/)
 
 ##### QA TOOLS
 
