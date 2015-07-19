@@ -103,3 +103,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### EcmaScript 6
 
 +   [Mozilla - ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/)
+
+##### Deployment
+
++   [Programmers - Things to know before making site public](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before#46760)
