@@ -56,3 +56,7 @@
 #### Docker
 
 +   [Craig Trim - Docker and Apache Tomcat](http://trimc-devops.blogspot.com/2015/03/running-docker-applications-apache.html)
+
+#### Microservices
+
++   [DZone - Software Architecture in DevOps](https://dzone.com/articles/software-architecture-devops)
