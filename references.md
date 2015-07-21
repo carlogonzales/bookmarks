@@ -86,6 +86,10 @@ The following requirements should help if the link is elligible to be in this do
 ##### MICROSERVICE ARCHITECTURE
 
 +   [Microservice Architecture](http://microservices.io/index.html)
++   [ActiveBlog - Microservices and PaaS - Part I](http://www.activestate.com/blog/2014/08/microservices-and-paas-part-i)
++   [ActiveBlog - Microservices and PaaS - Part II](http://www.activestate.com/blog/2014/08/microservices-and-paas-part-ii)
++   [ActiveBlog - Microservices and PaaS - Part III](http://www.activestate.com/blog/2014/09/microservices-and-paas-part-iii)
++   [ActiveBlog - Microservices and PaaS - Part IV](http://www.activestate.com/blog/2014/10/microservices-and-paas-part-iv)
 
 ##### SECURE CODING
 
