@@ -29,6 +29,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### MongoDB
 
 +   [Vlad Mihalcea's MongoDB Tutorials](http://vladmihalcea.com/tutorials/mongodb/)
++   [Docker and MongoDB Sharded Cluster](https://sebastianvoss.com/docker-mongodb-sharded-cluster.html)
 
 ##### Architecture
 
