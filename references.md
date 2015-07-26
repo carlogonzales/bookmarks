@@ -21,6 +21,7 @@ The following requirements should help if the link is elligible to be in this do
 +   [Understanding Scopes - AngularJs Wiki Github](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
 +   [Understanding Directives - AngularJs Wiki Github](https://github.com/angular/angular.js/wiki/Understanding-Directives)
 +   [Best Practices - AngularJs Wiki Github](https://github.com/angular/angular.js/wiki/Best-Practices)
++   [AngularJS - Translate](http://angular-translate.github.io)
 
 ##### Hibernate
 
