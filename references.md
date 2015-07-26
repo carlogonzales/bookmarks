@@ -112,3 +112,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### Deployment
 
 +   [Programmers - Things to know before making site public](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before#46760)
+
+##### Networking
+
++   [127.0.0.1 – What Are its Uses and Why is it Important?](http://www.tech-faq.com/127-0-0-1.html127.0.0.1 – What Are its Uses and Why is it Important?)
