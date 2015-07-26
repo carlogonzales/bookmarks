@@ -22,6 +22,7 @@ The following requirements should help if the link is elligible to be in this do
 +   [Understanding Directives - AngularJs Wiki Github](https://github.com/angular/angular.js/wiki/Understanding-Directives)
 +   [Best Practices - AngularJs Wiki Github](https://github.com/angular/angular.js/wiki/Best-Practices)
 +   [AngularJS - Translate](http://angular-translate.github.io)
++   [AngularJS - Directory Structure Best Practices](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
 
 ##### Hibernate
 
