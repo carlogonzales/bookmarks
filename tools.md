@@ -28,4 +28,9 @@
 +   [Usersnap](https://usersnap.com/) - 
 
 ##### PRESENTATION TOOLS
+
 +   [Reveal.Js](http://lab.hakim.se/reveal-js/#/)
+
+##### RUBY
+
++   [Ruby Version Manager](http://rvm.io/)
