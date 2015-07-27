@@ -24,6 +24,7 @@ The following requirements should help if the link is elligible to be in this do
 +   [AngularJS - Translate](http://angular-translate.github.io)
 +   [AngularJS - Directory Structure Best Practices](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
 +   [Using The Scope Tree As A Publish And Subscribe Mechanism In AngularJS](http://www.bennadel.com/blog/2734-using-the-scope-tree-as-a-publish-and-subscribe-pub-sub-mechanism-in-angularjs.htm)
++   [Eburley's AngularJS Watch Pub/Sub Best Practices](http://eburley.github.io/2013/01/31/angularjs-watch-pub-sub-best-practices.html)
 
 ##### Hibernate
 
