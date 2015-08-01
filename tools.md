@@ -38,3 +38,8 @@
 ##### NODEJS
 
 +   [NodeJS Version Manager](https://github.com/creationix/nvm)
+
+##### ELASTIC SEARCH
+
++   [Elasticsearch](https://www.elastic.co/)
++   [Elasticsearch - Marvel](https://www.elastic.co/products/marvel)
