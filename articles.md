@@ -74,3 +74,7 @@
 #### Android
 
 +   [A Java Geek - Compile-time dependency injection tradeoffs in Android](http://blog.frankel.ch/compile-time-dependency-injection-tradeoffs-in-android) - _Aug 2, 2015_
+
+#### Continuous Integration
+
++   [DBMaestro - Top factors holding companies back from continuous delivery](http://www.dbmaestro.com/2015/07/top-factors-holding-companies-back-from-continuous-delivery/) - _July 30, 2015_
