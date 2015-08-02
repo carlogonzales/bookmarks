@@ -60,3 +60,9 @@
 #### Microservices
 
 +   [DZone - Software Architecture in DevOps](https://dzone.com/articles/software-architecture-devops)
+
+### August
+
+####Testing
+
++   [Coding Horror - Doing Terrible Things To Your Code](http://blog.codinghorror.com/doing-terrible-things-to-your-code/)
