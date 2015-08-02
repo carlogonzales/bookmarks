@@ -1,15 +1,21 @@
-#FEEDS
+# FEEDS
 
-##2015
+## 2015
 
-###April
+### April
 
-#####Hibernate
+##### Hibernate
 
 +   [Vlad Mihalcea's Blog » Hibernate](http://vladmihalcea.com/category/java-2/hibernate/feed/)
 
-###May
+### May
 
-#####Enterprise Architecture
+##### Enterprise Architecture
 
 +   [Christian Posta's Blog](http://blog.christianposta.com/)
+
+### August
+
+##### Programming
+
++   [Coding Horror](http://blog.codinghorror.com/)
