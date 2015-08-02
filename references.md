@@ -109,6 +109,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### GIT
 
 +   [Github - How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
++   [Atlassian - Git Workflows](https://www.atlassian.com/zh/git/workflows)
 
 ##### EcmaScript 6
 
