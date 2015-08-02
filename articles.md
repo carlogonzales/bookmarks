@@ -70,3 +70,7 @@
 #### Personal Development
 
 +   [Dzone - Why Employees Need to Be True to Themselves](https://dzone.com/articles/why-employees-need-be-true-0) - _Jul 03, 2015_
+
+#### Android
+
++   [A Java Geek - Compile-time dependency injection tradeoffs in Android](http://blog.frankel.ch/compile-time-dependency-injection-tradeoffs-in-android) - _Aug 2, 2015_
