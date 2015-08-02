@@ -66,3 +66,7 @@
 ####Testing
 
 +   [Coding Horror - Doing Terrible Things To Your Code](http://blog.codinghorror.com/doing-terrible-things-to-your-code/)
+
+#### Personal Development
+
++   [Dzone - Why Employees Need to Be True to Themselves](https://dzone.com/articles/why-employees-need-be-true-0) - _Jul 03, 2015_
