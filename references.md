@@ -122,3 +122,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### Networking
 
 +   [127.0.0.1 – What Are its Uses and Why is it Important?](http://www.tech-faq.com/127-0-0-1.html127.0.0.1 – What Are its Uses and Why is it Important?)
+
+##### JAVASCRIPT PROMISE
+
++   [Promises/A+](https://promisesaplus.com/)
