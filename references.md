@@ -126,3 +126,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### JAVASCRIPT PROMISE
 
 +   [Promises/A+](https://promisesaplus.com/)
+
+##### REACTIVE PROGRAMMING
+
++   [Reactive Manifesto](http://www.reactivemanifesto.org/)
