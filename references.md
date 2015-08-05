@@ -136,3 +136,4 @@ The following requirements should help if the link is elligible to be in this do
 +   [Thinkful - Javascript Best Practices Part 1](https://www.thinkful.com/learn/javascript-best-practices-1/)
 +   [Thinkful - Javascript Best Practices Part 2](https://www.thinkful.com/learn/javascript-best-practices-2/)
 +   [Tutsplu - 24 JavaScript Best Practices for Beginners](http://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399)
++   [JS The Right Way](http://jstherightway.org/)
