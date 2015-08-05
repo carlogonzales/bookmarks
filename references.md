@@ -130,3 +130,8 @@ The following requirements should help if the link is elligible to be in this do
 ##### REACTIVE PROGRAMMING
 
 +   [Reactive Manifesto](http://www.reactivemanifesto.org/)
+
+##### JAVASCRIPT BEST PRACTICES
+
++   [Thinkful - Javascript Best Practices Part 1](https://www.thinkful.com/learn/javascript-best-practices-1/)
++   [Thinkful - Javascript Best Practices Part 2](https://www.thinkful.com/learn/javascript-best-practices-2/)
