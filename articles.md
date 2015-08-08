@@ -78,3 +78,7 @@
 #### Continuous Integration
 
 +   [DBMaestro - Top factors holding companies back from continuous delivery](http://www.dbmaestro.com/2015/07/top-factors-holding-companies-back-from-continuous-delivery/) - _July 30, 2015_
+
+#### Javascript
+
++   [`instanceof` considered harmful or how to write a robust `isArray`](http://perfectionkills.com/instanceof-considered-harmful-or-how-to-write-a-robust-isarray/)
