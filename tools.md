@@ -38,6 +38,7 @@
 ##### NODEJS
 
 +   [NodeJS Version Manager](https://github.com/creationix/nvm)
++   [PM2](https://github.com/Unitech/pm2)
 
 ##### ELASTIC SEARCH
 
