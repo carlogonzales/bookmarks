@@ -82,3 +82,7 @@
 #### Javascript
 
 +   [`instanceof` considered harmful or how to write a robust `isArray`](http://perfectionkills.com/instanceof-considered-harmful-or-how-to-write-a-robust-isarray/)
+
+#### Microservices
+
++   [WildFly Swarm: Building Microservices with Java EE](http://blog.arungupta.me/wildfly-swarm-microservices-javaee/)
