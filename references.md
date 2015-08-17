@@ -145,3 +145,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### BASH SCRIPTING
 
 +   [A simple way to parse shell script arguments](https://gist.github.com/jehiah/855086)
+
+##### BASH SCRIPTING BEST PRACTICES
+
++   [Google - Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
