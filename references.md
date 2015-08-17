@@ -150,3 +150,4 @@ The following requirements should help if the link is elligible to be in this do
 ##### BASH SCRIPTING BEST PRACTICES
 
 +   [Google - Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
++   [Best Practices for Writing Bash Scripts](http://kvz.io/blog/2013/11/21/bash-best-practices/)
