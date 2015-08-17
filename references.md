@@ -152,3 +152,4 @@ The following requirements should help if the link is elligible to be in this do
 +   [Google - Shell Style Guide](https://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 +   [Best Practices for Writing Bash Scripts](http://kvz.io/blog/2013/11/21/bash-best-practices/)
 +   [Shell Scripting - Best Practices](http://fahdshariff.blogspot.com/2013/10/shell-scripting-best-practices.html)
++   [10 good shell scripting practices](http://www.theunixschool.com/2012/03/10-good-shell-scripting-practices.html)
