@@ -145,6 +145,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### BASH SCRIPTING
 
 +   [A simple way to parse shell script arguments](https://gist.github.com/jehiah/855086)
++   [Parameter and Variable Index](https://www.gnu.org/software/bash/manual/html_node/Variable-Index.html)
 
 ##### BASH SCRIPTING BEST PRACTICES
 
