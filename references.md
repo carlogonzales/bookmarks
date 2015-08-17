@@ -141,3 +141,7 @@ The following requirements should help if the link is elligible to be in this do
 ##### NODEJS
 
 +   [How To Use PM2 to Setup a Node.js Production Environment On An Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-use-pm2-to-setup-a-node-js-production-environment-on-an-ubuntu-vps)
+
+##### BASH SCRIPTING
+
++   [A simple way to parse shell script arguments](https://gist.github.com/jehiah/855086)
