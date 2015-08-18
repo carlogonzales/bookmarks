@@ -90,3 +90,7 @@
 #### Messaging Protocols
 
 +   [JavaWorld - Know your real-time protocols for IoT apps](http://www.javaworld.com/article/2972719/java-app-dev/know-your-real-time-protocols-for-iot-apps.html)
+
+#### JSON
+
++   [Using JSON in a low latency environment](http://vanillajava.blogspot.com/2015/08/using-json-in-low-latency-environment.html)
