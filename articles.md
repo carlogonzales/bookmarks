@@ -86,3 +86,7 @@
 #### Microservices
 
 +   [WildFly Swarm: Building Microservices with Java EE](http://blog.arungupta.me/wildfly-swarm-microservices-javaee/)
+
+#### Messaging Protocols
+
++   [JavaWorld - Know your real-time protocols for IoT apps](http://www.javaworld.com/article/2972719/java-app-dev/know-your-real-time-protocols-for-iot-apps.html)
