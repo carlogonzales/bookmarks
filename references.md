@@ -11,6 +11,10 @@ The following requirements should help if the link is elligible to be in this do
 2015
 ----------
 
+##### Java
+
++   [Java Concept of the Day](http://javaconceptoftheday.com/)
+
 ##### Text Format
 
 +   [Markdown Syntax](http://daringfireball.net/projects/markdown)
