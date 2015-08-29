@@ -158,3 +158,8 @@ The following requirements should help if the link is elligible to be in this do
 +   [Shell Scripting - Best Practices](http://fahdshariff.blogspot.com/2013/10/shell-scripting-best-practices.html)
 +   [10 good shell scripting practices](http://www.theunixschool.com/2012/03/10-good-shell-scripting-practices.html)
 +   [BashGuide/Practices](http://mywiki.wooledge.org/BashGuide/Practices)
+
+##### ODATA
+
++   [OData](http://www.odata.org/)
++   [Apache Olingo](https://olingo.apache.org/)
