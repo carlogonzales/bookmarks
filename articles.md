@@ -94,3 +94,9 @@
 #### JSON
 
 +   [Using JSON in a low latency environment](http://vanillajava.blogspot.com/2015/08/using-json-in-low-latency-environment.html)
+
+### September
+
+#### Web Design
+
++   [Style Tiles: An Alternative to Full Design Comps](http://webdesign.tutsplus.com/articles/style-tiles-an-alternative-to-full-design-comps--webdesign-7232)
