@@ -67,3 +67,7 @@
 ##### JAVA FRAMEWORK
 
 +   [Ratpack](https://ratpack.io/)
+
+##### ANIMATION LIBRARY
+
++   [SamsaraJS](http://samsarajs.org/)
