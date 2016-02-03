@@ -100,3 +100,12 @@
 #### Web Design
 
 +   [Style Tiles: An Alternative to Full Design Comps](http://webdesign.tutsplus.com/articles/style-tiles-an-alternative-to-full-design-comps--webdesign-7232)
+
+
+## 2016
+
+### February
+
+#### JAX-RS Bean Validation
+
++   [Bean Validation in JAX-RS](https://jaxenter.com/integrating-bean-validation-with-jax-rs-2-106887.html)
