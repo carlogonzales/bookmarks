@@ -167,3 +167,11 @@ The following requirements should help if the link is elligible to be in this do
 ##### WEB DESIGN
 
 +   [Style Tiles](http://styletil.es/)
+
+
+2016
+----------
+
+##### JAX-RS Bean Validation
+
++   [Jersey - JAX-RS Bean Validation](https://jersey.java.net/documentation/latest/bean-validation.html)
