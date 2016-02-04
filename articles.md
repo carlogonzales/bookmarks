@@ -111,3 +111,7 @@
 +   [Bean Validation in JAX-RS](https://jaxenter.com/integrating-bean-validation-with-jax-rs-2-106887.html)
 +   [Validating JAX-RS resource data with Bean Validation in Java EE 7 and WildFly](http://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/)
 +   [Integrating Bean Validation with JAX-RS](https://jaxenter.com/integrating-bean-validation-with-jax-rs-2-106887.html)
+
+#### Java Exception
+
++   [How to Properly Use Exceptions in Java](https://dzone.com/articles/how-to-properly-use-exceptions-in-java)
