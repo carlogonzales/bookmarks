@@ -176,3 +176,7 @@ The following requirements should help if the link is elligible to be in this do
 
 +   [Jersey - JAX-RS Bean Validation](https://jersey.java.net/documentation/latest/bean-validation.html)
 +   [Validating JAX-RS resource data with Bean Validation in Java EE 7 and WildFly](http://samaxes.com/2014/04/jaxrs-beanvalidation-javaee7-wildfly/)
+
+##### JavaScript
+
++   [Understanding ECMAScript 6](https://github.com/nzakas/understandinges6)
