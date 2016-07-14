@@ -115,3 +115,9 @@
 #### Java Exception
 
 +   [How to Properly Use Exceptions in Java](https://dzone.com/articles/how-to-properly-use-exceptions-in-java)
+
+### July
+
+#### Microservices Patterns
+
++   [Building Microservices: Using an API Gateway](https://dzone.com/articles/building-microservices-using)
