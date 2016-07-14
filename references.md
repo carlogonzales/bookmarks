@@ -184,3 +184,7 @@ The following requirements should help if the link is elligible to be in this do
 #### Protocol BUffers
 
 +   [Protocol Buffers](https://developers.google.com/protocol-buffers/)
+
+#### Microservices
+
++   [Microservices Patterns](http://microservices.io/patterns/index.html)
