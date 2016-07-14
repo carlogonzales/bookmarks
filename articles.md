@@ -121,3 +121,4 @@
 #### Microservices Patterns
 
 +   [Building Microservices: Using an API Gateway](https://dzone.com/articles/building-microservices-using)
++   [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
