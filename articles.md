@@ -122,3 +122,10 @@
 
 +   [Building Microservices: Using an API Gateway](https://dzone.com/articles/building-microservices-using)
 +   [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+
+### September
+
+#### Java
+
++   [Why character array is better than String for Storing password in Java](http://javarevisited.blogspot.com/2012/03/why-character-array-is-better-than.html)
+
