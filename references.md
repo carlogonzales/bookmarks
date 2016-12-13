@@ -197,3 +197,9 @@ The following requirements should help if the link is elligible to be in this do
 #### Dataset
 
 +   [Datahub.io](https://datahub.io/)
+
+#### CSS
+
++   [The Ultimate Flexbox Cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
++   [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
